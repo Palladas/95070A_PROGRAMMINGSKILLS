@@ -1,4 +1,6 @@
 # 95070A Programming Skills
-This is the code for team 95070A's submission for the Annotated Programming Skill Online Challenge. It has been extremely hard to work on our submission this season due to the state the world is right now but we hope you appreciate all the hard work that has gone into this entry.
+This is the code for team 95070A's submission for the Annotated Programming Skill Online Challenge.
 # Navigation
-We use three main files in our code. The first two files (autonfunctions.h and motorsetup.h) are in the include folder. The third file (main.cpp) is in the src folder.
+There are three main files that we use.
+The first two files (motorsetup.h and autonfunctions.h) are in the 'include' folder. These two files are where we set up the ports of all our motors, and wrote all the functions we use in our autonomous.
+The third file (main.cpp) is in the 'src' folder. In main.cpp, we call our functions and input values to accomplish our autonomous.
